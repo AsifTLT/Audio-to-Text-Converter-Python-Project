@@ -10,9 +10,11 @@
 
 🔸 Key Features:
 
-Convert Existing Audio Files: Simply upload any of your previous audio files, and this tool will seamlessly convert the spoken words into text.
-Instant Voice Recording: Want to record something on the spot? You can instantly record your voice and watch it get converted into text in real-time.
-🔸 Why This Project? Whether you're a student, professional, or hobbyist, this tool is perfect for creating transcriptions from lectures, interviews, or notes quickly and easily.
+🌟 Convert Existing Audio Files: Simply upload any of your previous audio files, and this tool will seamlessly convert the spoken words into text.✅
+🌟 Instant Voice Recording: Want to record something on the spot? You can instantly record your voice and watch it get converted into text in real-time.✅
+
+🔸 Why This Project? 
+Whether you're a student, professional, or hobbyist, this tool is perfect for creating transcriptions from lectures, interviews, or notes quickly and easily.
 
 🔸 Get Started: Check out the code, explore the features, and feel free to contribute or provide feedback!
 
