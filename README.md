@@ -11,6 +11,7 @@
 🔸 Key Features:
 
 🌟 Convert Existing Audio Files: Simply upload any of your previous audio files, and this tool will seamlessly convert the spoken words into text.✅
+
 🌟 Instant Voice Recording: Want to record something on the spot? You can instantly record your voice and watch it get converted into text in real-time.✅
 
 🔸 Why This Project? 
